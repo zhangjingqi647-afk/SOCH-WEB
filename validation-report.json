@@ -1,0 +1,50 @@
+{
+  "pages": 390,
+  "assets": 1456,
+  "fontFiles": 16,
+  "videoFiles": 24,
+  "downloadedBytes": 5456094563,
+  "missingLocalFiles": [],
+  "changedDOMStructure": [],
+  "javascriptChecks": 29,
+  "newJavaScriptSyntaxErrors": [],
+  "pageHttpErrors": [],
+  "checks": {
+    "home": {
+      "status": 200,
+      "bytes": 95456
+    },
+    "faculty": {
+      "status": 200,
+      "bytes": 191133,
+      "records": 96
+    },
+    "thrust": {
+      "status": 200,
+      "bytes": 39034
+    },
+    "careers": {
+      "status": 200,
+      "bytes": 115907
+    },
+    "search": {
+      "status": 200,
+      "bytes": 72778,
+      "usesOriginalTemplate": true
+    },
+    "heroVideoRange": {
+      "status": 206,
+      "bytes": 1024,
+      "range": "bytes 0-1023/11625777"
+    }
+  },
+  "originalUnavailable": [
+    "https://soch.hkust-gz.edu.cn/2026/03/17/thrust-and-phd-program-introduction/%20target=",
+    "https://soch.hkust-gz.edu.cn/careers/js/swiper-bundle.min.js",
+    "https://soch.hkust-gz.edu.cn/wp-content/themes/hkust-society-hub-20261009/images/common/defult-image.jpg",
+    "https://soch.hkust-gz.edu.cn/wp-content/themes/hkust-society-hub-20261009/js/index.js?v=1.0.20261009",
+    "https://soch.hkust-gz.edu.cn/wp-content/themes/hkust-society-hub-20261009/images/academics/study-bg.jpg?v=0912",
+    "https://mbaplus.hkust-gz.edu.cn/lib/icomoon/style.css",
+    "https://mbaplus.hkust-gz.edu.cn/css/style.css"
+  ]
+}
