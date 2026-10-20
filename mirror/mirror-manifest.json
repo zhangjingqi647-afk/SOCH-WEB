@@ -10692,6 +10692,62 @@
       "file": "wp-content/themes/hkust-society-hub-20261009/images/search/search-icon.png",
       "type": "image/png",
       "bytes": 357
+    },
+    {
+      "url": "https://mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/css/default.css",
+      "file": "__external/mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/css/default.css",
+      "type": "text/css",
+      "bytes": 2320,
+      "final": "https://mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/css/default.css"
+    },
+    {
+      "url": "https://mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/lib/font/Mulish-Regular.ttf",
+      "file": "__external/mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/lib/font/Mulish-Regular.ttf",
+      "type": "font/ttf",
+      "bytes": 106528,
+      "final": "https://mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/lib/font/Mulish-Regular.ttf"
+    },
+    {
+      "url": "https://mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/lib/font/Mulish-SemiBold.ttf",
+      "file": "__external/mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/lib/font/Mulish-SemiBold.ttf",
+      "type": "font/ttf",
+      "bytes": 106508,
+      "final": "https://mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/lib/font/Mulish-SemiBold.ttf"
+    },
+    {
+      "url": "https://mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/lib/font/Mulish-Light.ttf",
+      "file": "__external/mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/lib/font/Mulish-Light.ttf",
+      "type": "font/ttf",
+      "bytes": 106572,
+      "final": "https://mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/lib/font/Mulish-Light.ttf"
+    },
+    {
+      "url": "https://mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/lib/font/Mulish-ExtraBold.ttf",
+      "file": "__external/mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/lib/font/Mulish-ExtraBold.ttf",
+      "type": "font/ttf",
+      "bytes": 106536,
+      "final": "https://mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/lib/font/Mulish-ExtraBold.ttf"
+    },
+    {
+      "url": "https://mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/lib/font/Mulish-Black.ttf",
+      "file": "__external/mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/lib/font/Mulish-Black.ttf",
+      "type": "font/ttf",
+      "bytes": 106576,
+      "final": "https://mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/lib/font/Mulish-Black.ttf"
+    },
+    {
+      "url": "https://mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/lib/font/Mulish-Bold.ttf",
+      "file": "__external/mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/lib/font/Mulish-Bold.ttf",
+      "type": "font/ttf",
+      "bytes": 106576,
+      "final": "https://mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/lib/font/Mulish-Bold.ttf"
+    },
+    {
+      "url": "https://mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/lib/font/Mulish-Medium.ttf",
+      "file": "__external/mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/lib/font/Mulish-Medium.ttf",
+      "type": "font/ttf",
+      "bytes": 106568,
+      "final": "https://mbaplus.hkust-gz.edu.cn/wp-content/themes/mba-plus-20261008/lib/font/Mulish-Medium.ttf"
     }
   ],
   "failures": {

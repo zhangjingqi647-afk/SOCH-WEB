@@ -1,0 +1,13 @@
+{
+  "name": "soch-react", "version": "1.0.0", "private": true, "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5173",
+    "build": "tsc -b && vite build",
+    "build:cloudflare": "node scripts/check-cloudflare.mjs && npm run build",
+    "preview": "vite preview --host 127.0.0.1 --port 5173",
+    "media:export": "node scripts/export-media.mjs",
+    "test": "node --test tests/content.test.mjs"
+  },
+  "dependencies": {"react": "^19.2.0", "react-dom": "^19.2.0", "react-router-dom": "^7.9.0", "swiper": "^11.2.10"},
+  "devDependencies": {"@types/node": "^22.0.0", "@types/react": "^19.2.0", "@types/react-dom": "^19.2.0", "@vitejs/plugin-react": "^4.7.0", "typescript": "~5.8.3", "vite": "^6.3.6"}
+}

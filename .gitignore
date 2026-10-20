@@ -1,5 +1,14 @@
 source-inspection/
+mirror/
 SOCH-Original-Mirror.zip
 preview.log
+react-preview.log
 __pycache__/
 *.pyc
+node_modules/
+dist/
+r2-media/
+*.tsbuildinfo
+.env.local
+.env.production.local
+SOCH-React-*.zip

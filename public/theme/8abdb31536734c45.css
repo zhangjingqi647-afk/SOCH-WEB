@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3474431 */
+  src: url('/wp-content/themes/hkust-society-hub-20261009/static/icon/iconfont.woff2') format('woff2'),
+       url('/wp-content/themes/hkust-society-hub-20261009/static/icon/iconfont.woff') format('woff'),
+       url('/wp-content/themes/hkust-society-hub-20261009/static/icon/iconfont.ttf') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-jiantou_qiehuanzuo_o:before {
+  content: "\eb90";
+}
+
+.icon-xiangxia1:before {
+  content: "\e601";
+}
+
+.icon-shouye-shouye:before {
+  content: "\e608";
+}
+
+.icon-cha:before {
+  content: "\e628";
+}
+
+.icon-xiangxia:before {
+  content: "\e600";
+}
+
+.icon-jiantoushang:before {
+  content: "\e62d";
+}
+
+.icon-sousuo:before {
+  content: "\e60c";
+}

@@ -1,9 +1,10 @@
 @echo off
 setlocal
 cd /d "%~dp0"
-set "SOCH_PYTHON=%USERPROFILE%\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe"
-if exist "%SOCH_PYTHON%" (
-  "%SOCH_PYTHON%" scripts\start_preview.py
+set "SOCH_NODE=%USERPROFILE%\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin\node.exe"
+if exist "%SOCH_NODE%" (
+  "%SOCH_NODE%" scripts\start-react-preview.mjs
 ) else (
-  python scripts\start_preview.py
+  node scripts\start-react-preview.mjs
 )
+if errorlevel 1 pause

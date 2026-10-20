@@ -1,0 +1,31 @@
+{
+  "origin": "http://127.0.0.1:5173",
+  "checks": [
+    {
+      "route": "/",
+      "status": 200,
+      "reactEntry": true
+    },
+    {
+      "route": "/about/",
+      "status": 200,
+      "reactEntry": true
+    },
+    {
+      "route": "/faculty-research/faculty/",
+      "status": 200,
+      "reactEntry": true
+    },
+    {
+      "route": "/news-events/news/page/2/",
+      "status": 200,
+      "reactEntry": true
+    },
+    {
+      "route": "hero video",
+      "status": 206,
+      "bytes": 1024,
+      "contentRange": "bytes 0-1023/11625777"
+    }
+  ]
+}
